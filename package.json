@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Baobab-Prince/Nodejs/issues"
   },
-  "homepage": "https://github.com/Baobab-Prince/Nodejs#readme"
+  "homepage": "https://github.com/Baobab-Prince/Nodejs#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "gulp": "^4.0.2",
+    "lit": "^2.0.2",
+    "moment": "^2.29.1"
+  }
 }
