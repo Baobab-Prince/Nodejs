@@ -4,8 +4,7 @@
   "description": "evaluation",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node main.js"
+    "nodemon": "nodemon main.js"
   },
   "repository": {
     "type": "git",
@@ -19,8 +18,9 @@
   "homepage": "https://github.com/Baobab-Prince/Nodejs#readme",
   "dependencies": {
     "chalk": "^4.1.2",
-    "gulp": "^4.0.2",
+    "gulp": "^3.9.1",
     "lit": "^2.0.2",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15"
   }
 }
